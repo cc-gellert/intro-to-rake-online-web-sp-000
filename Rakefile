@@ -9,7 +9,6 @@ namespace :greeting do
       puts "hola de Rake!"
     end
   end
-end 
 
 namespace :db do 
   desc 'migrate changes to your database'
